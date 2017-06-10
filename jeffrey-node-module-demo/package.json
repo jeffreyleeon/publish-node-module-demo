@@ -1,0 +1,15 @@
+{
+  "name": "jeffrey-node-module-demo",
+  "version": "1.0.0",
+  "description": "This is a demo of how to publish a module to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jeffreyleeon",
+    "demo"
+  ],
+  "author": "Jeffrey Lee <jeffreyleeon@gmail.com> (http://freydse.com/wordpress)",
+  "license": "ISC"
+}

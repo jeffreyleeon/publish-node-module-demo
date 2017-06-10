@@ -1,0 +1,14 @@
+{
+  "name": "using-custom-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Lee <jeffreyleeon@gmail.com> (http://freydse.com/wordpress)",
+  "license": "ISC",
+  "dependencies": {
+    "jeffrey-node-module-demo": "^1.0.0"
+  }
+}
